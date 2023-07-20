@@ -47,9 +47,7 @@ Each member will have their own folder containing their contributions.
 
 Here is a list of all the contributors who have participated in this project:
 
-- Member 1 ([GitHub Username](https://github.com/member1_username))
-- Member 2 ([GitHub Username](https://github.com/member2_username))
-- Member 3 ([GitHub Username](https://github.com/member3_username))
+- Member 1 ([Siva Ramana H V](https://github.com/SivaRamana-H-V))
 - ... (add more contributors here)
 
 We encourage all members to actively contribute to the project, learn from each other, and have fun exploring the world of Git and GitHub!
